@@ -35,9 +35,15 @@ g++ [filename with extension] -o [filename without extension] && "[path current 
 
     Solver => work_1.cpp
 
+### Algebra
 
+    Concepts:
 
+    - change compound equation from number to letters
+    - The roots is the inverse of the exponential and vice versa ( have attention with signal)
 
+    Challenge:
+<img src= "images/challenge_1.png">
 
 
 

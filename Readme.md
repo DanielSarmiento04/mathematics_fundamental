@@ -11,6 +11,8 @@ g++ [filename with extension] -o [filename without extension] && "[path current 
 ## Index
 
 1. Arithmetic.
+2. Algebra
+3. Polynomials
 
 
 ### Arithmetic
@@ -46,7 +48,15 @@ g++ [filename with extension] -o [filename without extension] && "[path current 
 <img src= "images/challenge_1.png">
 
 
+# Polynomials
+    Concepts:
 
+    Polynomials some terms.
+    in the equation  2x+ 5 => 2 and 5 are coefficients and x is the variable
+    in the equation 
+$$ 4xy^2 +3z $$
+
+    4 and 3 are coefficients and x, y and z are the variables
 
 ## Notes
 The folder with the name electronics contains an applied use of the theory in analog electronics calculations

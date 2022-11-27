@@ -1,27 +1,31 @@
-# Learning c++ with Fundamental matematics courses 
+# mathematics fundamental
 
-This  repositories cointains the solves with questions and the theory a fundamental matematics course
+This repository is based on the course of fundamentals of mathematics for Data Science course. conducted at [Platzi](https://platzi.com/cursos/fundamentos-matematicas/) and applied to learn C language.
+
+## Index
+
+1. Arithmetic.
 
 
-## 1. First Classes
+### Arithmetic
 
     Operations:
 
     - Sum/amount : (+)  2+2=4
-    - Substracion: (-)  2-2=0
+    - Subtraction: (-)  2-2=0
     - Multiplication: (\*) 2\*2 =4
     - Division: (/) 2/2=1
 
-Excersises:
-1. (-6)-(-7)*(-8)+ (-5) =
+    Workout:
+    1. (-6)-(-7)*(-8)+ (-5) =
 
-2. (93+33+(4-26))+(3-6*2)=
+    2. (93+33+(4-26))+(3-6*2)=
 
-3. 12*(-2)(-1)(-3)=
+    3. 12*(-2)(-1)(-3)=
 
-4. 8+(-7)*33=
+    4. 8+(-7)*33=
 
-5. 147+(83+(5+25))=
+    5. 147+(83+(5+25))=
 
-Solver => work_1.cpp
+    Solver => work_1.cpp
 

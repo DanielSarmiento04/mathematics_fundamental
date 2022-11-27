@@ -2,6 +2,12 @@
 
 This repository is based on the course of fundamentals of mathematics for Data Science course. conducted at [Platzi](https://platzi.com/cursos/fundamentos-matematicas/) and applied to learn C language.
 
+to run any file please type 
+```
+g++ [filename with extension] -o [filename without extension] && "[path current folder]/"[filename without extension]
+```
+
+
 ## Index
 
 1. Arithmetic.

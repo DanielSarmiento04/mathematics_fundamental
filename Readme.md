@@ -35,3 +35,16 @@ g++ [filename with extension] -o [filename without extension] && "[path current 
 
     Solver => work_1.cpp
 
+
+
+
+
+
+
+
+## Notes
+The folder with the name electronics contains an applied use of the theory in analog electronics calculations
+
+Reference:
+
+Floyd 

@@ -70,7 +70,10 @@ $$ 6x*y^2 - 10x^2*y$$
 
 
 # Function
+    Concepts:
 
+    The concept is similar  to how we uis it in programming.
+    There are a input data, and output data, and between the input and output there is a process that transform the data.
 
 ## Notes
 The folder with the name electronics contains an applied use of the theory in analog electronics calculations

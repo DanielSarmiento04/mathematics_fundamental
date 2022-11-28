@@ -13,7 +13,7 @@ g++ [filename with extension] -o [filename without extension] && "[path current 
 1. Arithmetic.
 2. Algebra
 3. Polynomials
-
+4. Function
 
 ### Arithmetic
 
@@ -57,6 +57,20 @@ g++ [filename with extension] -o [filename without extension] && "[path current 
 $$ 4xy^2 +3z $$
 
     4 and 3 are coefficients and x, y and z are the variables
+
+    to simplify the equation, it's necessary that the both expressions have the same set of variables and exponents
+
+$$ -x^4 + 3x^4  = 2x^4 $$
+$$ 6x^2*y - 10x^2*y  = -4x^2*y $$
+    but
+$$ 6x*y^2 - 10x^2*y$$
+    can not simply 
+
+    Distributive property
+
+
+# Function
+
 
 ## Notes
 The folder with the name electronics contains an applied use of the theory in analog electronics calculations
